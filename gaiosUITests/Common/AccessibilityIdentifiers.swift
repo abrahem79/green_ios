@@ -7,7 +7,7 @@ struct AccessibilityIdentifiers {
     public typealias TextField = String
     typealias SecureTextField = TextField
     typealias Button = String
-
+            
     struct HomeScreen {
         static let view = "view_home"
         static let addWalletView = "add_wallet_view"
